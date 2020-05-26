@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'MyFont';
+    src:  url('./rabbit.otf') format('otf');
+    /*url('./vintage.otf') format('otf');*/
+    font-weight: 600;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.hello {
+    color: red;
+    font-family: 'MyFont';
+    background: url('./corn.png');
+}
